@@ -1,1 +1,1 @@
-# vaccine-availibilty-app
+# vaccine-availabilty-app
